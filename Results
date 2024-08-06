@@ -1,1 +1,7 @@
 
+Instructions to run the code:
+git clone https://github.com/Srujith12/N2
+update the model paths accordingly in run_file.py
+Next Step, Make sure to change the `input_video_path` and `output_video_path` as per convenience in run_file.py
+
+Finally Run, python run_file.py file.
